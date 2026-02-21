@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402837281302",
+    "project_id": "lanungga-studio-app",
+    "storage_bucket": "lanungga-studio-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402837281302:android:16d3da11c7e46d4e557337",
+        "android_client_info": {
+          "package_name": "com.lanungga.studio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAX2HwKm6TihZkTmwI-uQAq6zWDZaYNVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
